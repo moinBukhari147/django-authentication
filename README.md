@@ -10,7 +10,7 @@
 - Database-level lock for OTP abuse security
 - Good for mid-level inspiration
 
-## Improvement
+## Improvements possible
 - Need to follow the updated code file structure serializer per file
 - Use Redis for OTP store - with proper locking.
 - Or use the stateless OTP verification with proper rate limiting with the help of Redis.
